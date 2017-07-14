@@ -1,0 +1,12 @@
+# IntelliJ/Android Studio
+*.iml
+.idea
+/local.properties
+
+# Gradle
+.gradle
+/build
+/captures
+
+# OSX Noise
+.DS_Store
