@@ -25,6 +25,6 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:26.+'
-    compile 'com.github.carloshwa:jitpack-test:1.0'
+    compile 'com.github.carloshwa:jitpack-test:master-SNAPSHOT'
     testCompile 'junit:junit:4.12'
 }
